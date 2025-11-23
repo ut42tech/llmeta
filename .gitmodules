@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/ut42tech/llmeta-client.git
+[submodule "agent"]
+	path = agent
+	url = https://github.com/ut42tech/llmeta-agent.git
